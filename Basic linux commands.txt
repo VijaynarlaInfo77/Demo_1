@@ -1,0 +1,13 @@
+Linux Commmands :
+
+Pwd : Present working directory.
+
+clear : Clearing the screen 
+
+cd /home : changing Directory 
+
+echo "XXXXXXX" :If you want print a command in the Terminal Use echo "XXXX"
+
+whoami : command checks the current login user
+
+ 
