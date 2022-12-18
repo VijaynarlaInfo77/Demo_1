@@ -1,0 +1,12 @@
+Basic components :
+
+using java selenium, testng , extent reports, logger  
+
+Page objects ,log4j
+utiles
+Helpers
+Base
+suites
+Pom
+screen shots 
+reports 
